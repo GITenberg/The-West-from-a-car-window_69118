@@ -1,0 +1,35 @@
+_repo: The-West-from-a-car-window_69118
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Remington, Frederick
+    gutenberg_agent_id: '55118'
+    url: http://www.gutenberg.org/2009/agents/55118
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: ''
+gutenberg_issued: '2022-10-09'
+identifiers:
+  gutenberg: '69118'
+language: en
+pgterms:marc904: https://archive.org/details/westfromcarwindo00daviuoft/page/186/mode/2up
+pgterms:marc905: 20220209175441davis
+pgterms:marc906: '1892'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was created from images of public domain
+  material made available by the University of Toronto Libraries.)
+publication_note: United States :Harper & Brothers Publishers,1892.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The West from a car window
+url: http://www.gutenberg.org/ebooks/69118
