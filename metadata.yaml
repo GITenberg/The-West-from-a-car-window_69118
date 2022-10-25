@@ -5,6 +5,9 @@ contributor:
     agent_name: Remington, Frederick
     gutenberg_agent_id: '55118'
     url: http://www.gutenberg.org/2009/agents/55118
+covers:
+- cover_type: archival
+  image_path: 69118-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/181
     wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69118#The-West-from-a-car-window
 gutenberg_issued: '2022-10-09'
 identifiers:
   gutenberg: '69118'
